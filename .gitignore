@@ -1,1 +1,3 @@
-sequences_vehicle_ids.pkl
+Data/sequences_vehicle_ids.pkl
+Data/sparse.csv
+Data/preprocessed_sparse.csv
